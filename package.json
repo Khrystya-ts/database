@@ -1,0 +1,14 @@
+{
+  "name": "dog-database",
+  "version": "1.0.0",
+  "description": "База даних собак",
+  "main": "database.js",
+  "type": "module",
+  "scripts": {
+    "start": "node database.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg": "^8.11.0"
+  }
+}
